@@ -1,7 +1,7 @@
 # Schedule Tracker
 Schedule Tracker for Primavera P6. Avoid increased project costs, delays, and errors.
 
-https://scheduletracker.app
+[Schedule Tracker](https://scheduletracker.app/)
 
 ![ScheduleTracker.app](https://scheduletracker.app/img/schedule-tracker.webp)
 
